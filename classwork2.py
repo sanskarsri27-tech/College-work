@@ -9,6 +9,7 @@ num2=10
 sum= num1+num2
 print(sum)
 
+#arithemetic operations 
 '''a=int(input("enter your first number\n"))
 b=int(input("enter your second number\n"))
 a=a+b
@@ -17,6 +18,7 @@ a=a-b
 print(a)
 print(b)'''
 
+#data type of a
 '''a=10
 print(type(a))'''
 
@@ -29,6 +31,7 @@ print(type(a))'''
 # a= bool(10)
 # print(type(a))
 
+#addition of two numbers
 '''a=27
 b=28
 sum=a+b
@@ -38,6 +41,7 @@ print(rem)
 mul=a*b
 print(mul)
 
+#logical operators
 if(a==b):
     print("equal")
 else:
@@ -48,12 +52,14 @@ else:
     else:
         print("not greater than 100")
 
+#squaring two numbers
 square1= a*a
 square2= b*b
 print("square is")
 print(square1)
 print(square2)'''
 
+#function first example
 # def abc(name):
 #     print(name)
 # abc("sanskar")
@@ -62,6 +68,7 @@ print(square2)'''
 #     print("length of your name is\t",  len(name))
 # length("sanskar")
 
+#creating a list and performing operations
 # list=["a","b","c"]
 # print(list)
 # list.append("d")
@@ -71,23 +78,27 @@ print(square2)'''
 # list[2]= "s"
 # print(list)
 
-'''rows=int(input("enter the number of rows"))
-j=1
-for i in range(j, rows+1):
-    print("*"*i)'''
+#star pattern
+# rows=int(input("enter the number of rows"))
+# j=1
+# for i in range(j, rows+1):
+#     print("*"*i)
 
+# numver from 1 to 10 using while loop
 # n=1
 # while(n<=10):
 #     print(n)
 #     n+=1
-
+ #even numbers between 0 to 20
 # for i in range(0,20):
 #     if(i%2==0):
 #         print(i)
 
+#table of 5
 # for i in range(1,10):
 #    print("5 *",i,"=", 5*i)
 
+# sum of the numbers between 0 to 100
 # sum=0
 # for i in range(0,100):
 #     sum = sum+i
@@ -103,6 +114,7 @@ for i in range(j, rows+1):
 #      for j in range(1,i+1):
 #            print("*",end='')
 #      print()
+
 
 # # create the list of 5 fruits and print it
 # fruits=["apple","banana","orange","grape","mango"]
