@@ -1,0 +1,50 @@
+1. Laptop
+2. Desktop
+3. Keyboard
+4. Mouse
+5. Monitor
+6. Printer
+7. Scanner
+8. Webcam
+9. Microphone
+10. Headphones
+11. Speaker
+12. Router
+13. Modem
+14. Hard Drive
+15. SSD
+16. USB Flash Drive
+17. Memory Card
+18. Power Bank
+19. Charger
+20. Smartwatch
+21. Smartphone
+22. Tablet
+23. Projector
+24. Graphics Card
+25. Processor
+26. Motherboard
+27. RAM
+28. Cooling Fan
+29. Power Supply
+30. Cabinet
+31. HDMI Cable
+32. Ethernet Cable
+33. UPS
+34. External DVD Drive
+35. Wi-Fi Adapter
+36. Bluetooth Speaker
+37. Wireless Mouse
+38. Mechanical Keyboard
+39. Gaming Chair
+40. Office Desk
+41. Desk Lamp
+42. Notebook
+43. Pen
+44. Pencil
+45. Eraser
+46. Marker
+47. Stapler
+48. Paper Clips
+49. Calculator
+50. Backpack
